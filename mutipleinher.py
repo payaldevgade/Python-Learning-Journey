@@ -10,6 +10,7 @@ class Mother:
 
     
     def care(self):
+        
         print("Mother takes care")
 
 # Child Class
