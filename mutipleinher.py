@@ -13,7 +13,7 @@ class Mother:
         
         print("Mother takes care")
 
-# Child Class
+
 class Child(Father, Mother):
     def play(self):
         print("Child is playing")
