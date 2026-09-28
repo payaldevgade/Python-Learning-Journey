@@ -19,7 +19,7 @@ class Child(Father, Mother):
         
         print("Child is playing")
 
-# Object
+
 c = Child()
 
 c.money()   # From Father
