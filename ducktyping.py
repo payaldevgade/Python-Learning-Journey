@@ -7,6 +7,7 @@ class Animal:
 class Human:
     
     def show(self):
+        
         print(f" Hello i am also showing")
 
 obj1 = Animal()
