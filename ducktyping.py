@@ -1,4 +1,4 @@
-# DUCK TYPING
+# DUCK 
 
 class Animal:
     
