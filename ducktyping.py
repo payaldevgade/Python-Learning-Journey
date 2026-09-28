@@ -1,5 +1,4 @@
 
-
 class Animal:
     
     def show(self):
