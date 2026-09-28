@@ -1,4 +1,4 @@
-# DUCK 
+
 
 class Animal:
     
