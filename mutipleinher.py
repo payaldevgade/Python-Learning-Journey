@@ -3,6 +3,7 @@ class Father:
 
     
     def money(self):
+        
         print("Father has money")
 
 # Parent Class 2
