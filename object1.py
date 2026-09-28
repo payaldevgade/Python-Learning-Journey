@@ -7,6 +7,7 @@ class Factory:
         self.pockets = pockets
 
     def show(self):
+        
         print(f" Your object details are {self.material} , {self.pockets} , {self.zips}")    
 
 
