@@ -15,6 +15,7 @@ class Mother:
 
 
 class Child(Father, Mother):
+    
     def play(self):
         print("Child is playing")
 
