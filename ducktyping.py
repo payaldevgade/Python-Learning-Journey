@@ -1,5 +1,5 @@
 # DUCK TYPING
-\
+
 class Animal:
     
     def show(self):
