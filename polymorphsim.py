@@ -11,7 +11,7 @@ class Animal:
 
 class Human(Animal):
     
-    def show(self
+    def show(self):
             
         print(f" Hello i am anil")
 
