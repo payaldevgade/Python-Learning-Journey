@@ -5,6 +5,7 @@ class Student:
     a = " kee "
 
     def show(self):
+        
         print(" hello i am a good person ")
 
 class priya(Student):
