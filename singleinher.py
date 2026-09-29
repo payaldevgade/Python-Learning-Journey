@@ -11,6 +11,7 @@ class Animal:
 class Dog(Animal):
     
     def bark(self):
+        
         print("Dog is barking")
 
 # Create Object
