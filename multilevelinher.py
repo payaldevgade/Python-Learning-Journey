@@ -29,4 +29,5 @@ p = Puppy()
 p.eat()    # From Animal
 
 p.bark()   # From Dog
+
 p.weep()   # From Puppy
