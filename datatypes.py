@@ -1,6 +1,5 @@
 a = 10 #int
 
-
 b = 22.2 #float
 
 c = 23/2 #float
