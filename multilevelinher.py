@@ -17,6 +17,7 @@ class Dog(Animal):
 # Child Class
 
 class Puppy(Dog):
+    
     def weep(self):
         print("Puppy is weeping")
 
