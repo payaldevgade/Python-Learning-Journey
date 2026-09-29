@@ -19,6 +19,7 @@ class Dog(Animal):
 class Puppy(Dog):
     
     def weep(self):
+        
         print("Puppy is weeping")
 
 # Object
