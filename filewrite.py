@@ -1,4 +1,4 @@
-# USED TO CREATE A FILE AND OVERRIDE IT
+
 
 
 r = open("supermann.txt",'w')
