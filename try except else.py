@@ -1,6 +1,5 @@
 a = int(input("Enter a number"))
 
-try:
 
     print(10 / a)
 
