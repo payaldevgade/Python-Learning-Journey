@@ -2,6 +2,7 @@
 
 # USED TO READ A FILE
 
+
 p = open(r"C:\Users\payal\OneDrive\Desktop\pythonfords\arithemtic.py")
 
 print(p.read())
