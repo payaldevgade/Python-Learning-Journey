@@ -1,4 +1,4 @@
-# PUBLIC ATTRIBUTES AND METHODS
+
 
 class Student:
     
