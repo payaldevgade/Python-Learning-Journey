@@ -9,6 +9,7 @@ class Animal:
 # Parent Class
 
 class Dog(Animal):
+    
     def bark(self):
         print("Dog is barking")
 
