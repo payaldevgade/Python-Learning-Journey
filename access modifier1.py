@@ -11,6 +11,7 @@ class Student:
 class priya(Student):
     
     def show2(self):
+        
         print(super().a)
 
 obj = priya()
