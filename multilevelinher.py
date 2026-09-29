@@ -23,6 +23,7 @@ class Puppy(Dog):
         print("Puppy is weeping")
 
 # Object
+
 p = Puppy()
 
 p.eat()    # From Animal
