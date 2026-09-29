@@ -9,6 +9,7 @@ class Student:
         print(" hello i am a good person ")
 
 class priya(Student):
+    
     def show2(self):
         print(super().a)
 
