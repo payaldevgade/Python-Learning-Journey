@@ -1,6 +1,7 @@
 # PUBLIC ATTRIBUTES AND METHODS
 
 class Student:
+    
     a = " kee "
 
     def show(self):
