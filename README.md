@@ -1,9 +1,4 @@
 # python-course
-
-
-
-
-
 Python practice 
 
 
