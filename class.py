@@ -1,4 +1,5 @@
 class Factory:
+    
     a = 15 # ATTRIBUTE
 
     def hello(self):  # METHODS
