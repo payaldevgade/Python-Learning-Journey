@@ -1,4 +1,4 @@
-# python-course
+# python-co
 Python practice 
 
 
