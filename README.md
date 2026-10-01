@@ -8,6 +8,3 @@ Python practice
 
 
 
-
-
-
