@@ -1,4 +1,5 @@
 class Student:
+    
     name = " payal " # CLASS ATTRIBUTE
 
     def __init__(self,age):
