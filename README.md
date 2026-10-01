@@ -1,4 +1,4 @@
-# python-co
+# python-cour
 Python practice 
 
 
