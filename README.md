@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 Python practice 
 
 
