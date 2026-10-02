@@ -3,14 +3,6 @@
 
 
 
-
-
-
-
-
-
-
-
 Python practice 
 
 
