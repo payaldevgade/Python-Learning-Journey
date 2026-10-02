@@ -1,5 +1,35 @@
 # python-course
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Python practice 
 
 
