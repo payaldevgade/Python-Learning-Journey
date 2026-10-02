@@ -2,13 +2,6 @@
 
 
 
-
-
-
-
-
-
-
 Python practice 
 
 
