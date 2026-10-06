@@ -1,4 +1,5 @@
-# USES __ __
+# USES 
+
 class Animal:
     def __init__(self,name,age):
         self.name = name
