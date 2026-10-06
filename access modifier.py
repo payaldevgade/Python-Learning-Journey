@@ -4,7 +4,7 @@ class Demo:
         self._age = 20              # PROTECTED 
         self.__salary = 900000      # PRIVATE
 
-    def show(self)
+    def show(self):
         print(" inside the class :")
         print(" Public:" , self.name)
         print(" Protected:" , self._age)
