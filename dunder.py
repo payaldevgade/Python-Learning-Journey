@@ -7,6 +7,7 @@ class Animal:
         self.age = age
 
     def __str__(self):
+        
         return f" hello how are you and your name is (self.tiger) "
 
     def __add__(self,other):
