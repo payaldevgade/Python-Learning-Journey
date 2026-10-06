@@ -10,7 +10,6 @@ class Demo:
         print(" Protected:" , self._age)
         print(" Private:" , self.__salary)    
         
-
 obj = Demo()
 
 obj.show()
