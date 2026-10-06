@@ -5,6 +5,7 @@ def decorate(func):
         print(" The addition to your number are ")
         func(a,b)
         print(" Thank you i hope you liked it")
+        
     return wrapper
 
 
