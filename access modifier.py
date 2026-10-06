@@ -9,6 +9,7 @@ class Demo:
         print(" Public:" , self.name)
         print(" Protected:" , self._age)
         print(" Private:" , self.__salary)    
+        
 
 obj = Demo()
 
