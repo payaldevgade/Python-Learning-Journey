@@ -5,7 +5,6 @@ class Father:
         print("Father has money")
 
 class Mother:
-
     
     def care(self):
         
