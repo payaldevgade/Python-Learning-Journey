@@ -8,6 +8,7 @@ a = int(input("Enter a number"))
 except ZeroDivisionError:
     
     print("sorry i cannot divide")
+  
 else:
 
     print("good there is no exception")    
