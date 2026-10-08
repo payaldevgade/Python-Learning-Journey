@@ -5,6 +5,7 @@ if t < 0:
     
 elif t >= 0 and t < 10:
     print(f"Very Cold")
+    
 elif t >= 10 and t < 20:
     print(f"Cold")
 elif t >= 20 and t < 30:
