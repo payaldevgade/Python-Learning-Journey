@@ -8,6 +8,7 @@ elif t >= 0 and t < 10:
     
 elif t >= 10 and t < 20:
     print(f"Cold")
+    
 elif t >= 20 and t < 30:
     print(f"Plesant")
 elif t >= 30 and t < 40:
