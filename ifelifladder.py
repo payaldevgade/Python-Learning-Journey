@@ -1,4 +1,5 @@
 t = int(input("Tell your Temperture:"))
+
 if t < 0:
     print(f"Freezing Cold")
 elif t >= 0 and t < 10:
