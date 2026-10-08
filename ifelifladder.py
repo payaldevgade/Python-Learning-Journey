@@ -11,6 +11,7 @@ elif t >= 10 and t < 20:
     
 elif t >= 20 and t < 30:
     print(f"Plesant")
+    
 elif t >= 30 and t < 40:
     print(f"Hot")
 
