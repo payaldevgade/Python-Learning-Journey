@@ -16,4 +16,5 @@ elif t >= 30 and t < 40:
     print(f"Hot")
 
 else:
+    
     print("Temperture is Very Hot")
