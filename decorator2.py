@@ -8,7 +8,6 @@ def decorate(func):
         
     return wrapper
 
-
 @decorate
 
 def addition(a,b):
