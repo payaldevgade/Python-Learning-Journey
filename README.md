@@ -1,4 +1,4 @@
-# python-courseee
+# python-course
 Python practice 
 
 
