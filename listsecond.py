@@ -5,8 +5,7 @@ largest = l[0]
 sec_largest = l[0]
 
 for i in l:
-
-    if i > largest:
+ if i > largest:
 
         sec_largest = largest
 
