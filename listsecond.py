@@ -10,8 +10,8 @@ for i in l:
         sec_largest = largest
 
         largest = i
-
-    elif i > sec_largest:
+  
+elif i > sec_largest:
         
         sec_largest = i
 
