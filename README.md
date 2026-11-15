@@ -1,6 +1,5 @@
 # python-course
-
-Python practice 
+python practice 
 
 
 
